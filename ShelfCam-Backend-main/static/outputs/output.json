@@ -1,0 +1,9 @@
+{
+    "shelf_number": "A1",
+    "empty_percentage": 54.2,
+    "items_detected": [
+        "Milk"
+    ],
+    "mock_detection": true,
+    "message": "This is a mock detection result for testing"
+}
